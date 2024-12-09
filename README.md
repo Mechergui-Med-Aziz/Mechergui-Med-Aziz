@@ -1,3 +1,11 @@
+# Hello, I'm MOHAMED AZIZ MECHERGUI 👋
+
+---
+
+## 📝 About Me
+
+I'm a passionate software developer with a keen interest in web development. I love to explore new technologies and leverage them to solve real-world problems.
+
 <img 
     alt="" 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
@@ -5,37 +13,60 @@
     draggable="false">
 </img>
 
-# Mon Super Projet 🚀aa
+---
 
-Une application web moderne qui simplifie [insérez le problème que votre projet résout] tout en offrant une expérience utilisateur fluide et intuitive. 🎉
+## 🛠️ Technical Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+
+
+### DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ---
 
-## 🌟 Fonctionnalités principales
+## 💼 Skills
 
-- [x] Fonctionnalité 1 : Description de la première fonctionnalité.
-- [x] Fonctionnalité 2 : Description de la deuxième fonctionnalité.
-- [x] Fonctionnalité 3 : Description de la troisième fonctionnalité.
-
----
-
-## 🛠️ Technologies utilisées
-
-- **Frontend** : HTML5, CSS3, JavaScript (ES6+), [Framework utilisé, ex. React.js].
-- **Backend** : [Framework/outil utilisé, ex. Node.js, Express].
-- **Base de données** : [Base de données utilisée, ex. MongoDB, MySQL].
-- **Autres outils** : [ex. Git, Webpack, etc.].
+- Project management  
+- Strong decision maker  
+- Complex problem solver  
+- Innovative  
+- Service-focused  
 
 ---
 
-## 📦 Installation et utilisation
+## 📫 How to reach me:
 
-### Prérequis
-- [ex. Node.js](https://nodejs.org/) installé (version recommandée : 16+).
-- Un gestionnaire de paquets comme `npm` ou `yarn`.
+- **Email**: [mechergui.aziz843@gmail.com](mailto:mechergui.aziz843@gmail.com)  
+- **LinkedIn**: [Mechergui Mohamed Aziz](https://www.linkedin.com/in/mechergui-med-aziz-119358296/)
 
-### Étapes d'installation
+---
 
-1. Clonez le dépôt :  
-   ```bash
-   git clone https://github.com/ton-utilisateur/nom-du-depot.git
+## ❓ Ask me about
+
+- Software development  
+- Tech consulting  
+- Career advice in tech  
+
+---
+
+### Show some ❤️ by starring some of the repositories!
