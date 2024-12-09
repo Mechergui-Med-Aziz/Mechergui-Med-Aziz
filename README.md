@@ -1,3 +1,10 @@
+<img 
+    alt="" 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    style="pointer-events: none;" 
+    draggable="false">
+</img>
+
 # Mon Super Projet 🚀
 
 Une application web moderne qui simplifie [insérez le problème que votre projet résout] tout en offrant une expérience utilisateur fluide et intuitive. 🎉
