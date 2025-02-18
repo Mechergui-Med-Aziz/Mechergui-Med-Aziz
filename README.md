@@ -5,7 +5,7 @@
 
 ## 📝 About Me
 
-I'm a passionate software developer with a keen interest in web development. I love to explore new technologies and leverage them to solve real-world problems.
+I'm a passionate software developer with a keen interest in web development. I like to explore new technologies and leverage them to solve real-world problems.
 
 <img 
     alt="" 
