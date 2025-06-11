@@ -56,7 +56,7 @@ I'm a passionate software developer with a keen interest in web development. I l
 
 ## 📫 How to reach me:
 
-- **Email**: [mechergui.aziz843@gmail.com](mailto:mechergui.aziz843@gmail.com)  
+- **Email**: [moazizmechergui@gmail.com](mailto:moazizmechergui@gmail.com)  
 - **LinkedIn**: [Mechergui Mohamed Aziz](https://www.linkedin.com/in/mechergui-med-aziz-119358296/)
 
 ---
