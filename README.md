@@ -71,4 +71,4 @@ I'm a passionate software developer with a keen interest in web development. I l
 
 ---
 
-### Show some ❤️ by starring some of the repositories!
+### Show some support by starring some repositories!
