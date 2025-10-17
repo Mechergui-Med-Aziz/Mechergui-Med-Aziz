@@ -8,7 +8,7 @@
 
 **À propos de moi**
 
-Je suis Mohamed Aziz Mechergui, diplômé en Technologie Informatique de l’ISET RADES en Tunisie 💻. Avec plus d’un an d’expérience en tant qu’ingénieur Full Stack Web et formateur Web, j’ai 23 ans et je suis totalement passionné par le développement frontend et backend.
+Je suis Mohamed Aziz Mechergui, diplômé en Technologie de l'Informatique de l’ISET RADES en Tunisie spécialitée Développement ds Systémes d'Informations 💻. Avec plus d’un an d’expérience en tant qu’ingénieur Full Stack Web et formateur Web, j’ai 23 ans et je suis totalement passionné par le développement frontend et backend.
 
 # <b>Entrons en contact..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
