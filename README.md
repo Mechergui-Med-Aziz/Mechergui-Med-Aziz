@@ -41,7 +41,7 @@ I'm Mohamed Aziz Mechergui, a recent Computer Technology graduate from ISET RADE
 
 
 <p align="center">
-          <a href="https://github.com/AzizBenIsmail/">
+          <a href="https://github.com/Mechergui-Med-Aziz/">
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mechergui-Med-Aziz&theme=gruvbox&layout=compact&hide_border=true"
           alt="1999AZZAR :: Top Langs by repo" />
           <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mechergui-Med-Aziz&theme=gruvbox&layout=compact&hide_border=true"
