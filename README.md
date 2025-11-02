@@ -10,7 +10,7 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
 **About me**
 
-I'm Mohamed Aziz Mechergui, a recent Computer Technology graduate from ISET RADES in Tunisia, specializing in information technology development 💻. With over one year of experience as a Full Stack Web developer and Web Trainer, I am 23 years old and deeply passionate about both frontend and backend development.
+I'm Mohamed Aziz Mechergui, a recent Computer Technology graduate from ISET RADES in Tunisia, specializing in information technology development 💻. With over one year of experience as a Full Stack Web developer, I am 23 years old and deeply passionate about both frontend and backend development.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
